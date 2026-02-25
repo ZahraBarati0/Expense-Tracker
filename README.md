@@ -40,7 +40,7 @@ The application provides:
 ---
 
 📂 Project Structure
-
+```
 src/
  ├── components/
  │   ├── Card.jsx
@@ -53,6 +53,7 @@ src/
  │
  ├── App.jsx
  ├── App.css
+```
 
 ---
 
